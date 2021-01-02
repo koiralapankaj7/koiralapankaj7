@@ -19,7 +19,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" />
+<img align="left" alt="flutter" width="26px" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" />
 <img align="left" alt="Dart" width="26px" src="https://w7.pngwing.com/pngs/595/79/png-transparent-dart-programming-language-flutter-object-oriented-programming-flutter-logo-class-fauna-bird.png" />
 <img align="left" alt="java" width="26px" src="https://w7.pngwing.com/pngs/917/862/png-transparent-java-programmer-computer-programming-logo-others-miscellaneous-text-logo.png" />
 <img align="left" alt="graphql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
