@@ -2,10 +2,10 @@
 
 ## I'm a Developer and Teacher!
 
-- 🔭 I’m currently working as a Flutter developer
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Working as a Flutter and IOS developer
+- 🌱 I’m trying to learn everything 🤣
 - 👯 I’m available for freelance work
-- 🥅 2020 Goals: Learning and learning
+- 🥅 2021 Goals: Learning and more learning
 
 ### Connect with me:
 
