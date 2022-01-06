@@ -5,7 +5,7 @@
 - 🔭 Working as a Flutter and IOS developer
 - 🌱 I’m trying to learn everything 🤣
 - 👯 I’m available for freelance work
-- 🥅 2021 Goals: Learning and more learning
+- 🥅 2022 Goals: Learning and more learning
 
 ### Connect with me:
 
