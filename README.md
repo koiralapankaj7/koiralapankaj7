@@ -37,7 +37,7 @@
 ---
 
 <!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=koiralapankaj7&show_icons=true&theme=gotham)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=koiralapankaj7&show_icons=true&theme=gotham) /> -->
 
 [twitter]: https://twitter.com/koiralapankaj7
 [instagram]: https://www.instagram.com/koiralapankaj7/
